@@ -47,8 +47,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'asciju'
-copyright = "2021, Audrey Roy Greenfeld"
-author = "Audrey Roy Greenfeld"
+copyright = "2021, Aju Tamang"
+author = "Aju Tamang"
 
 # The version info for the project you're documenting, acts as replacement
 # for |version| and |release|, also used in various other places throughout
@@ -129,7 +129,7 @@ latex_elements = {
 latex_documents = [
     (master_doc, 'asciju.tex',
      'asciju Documentation',
-     'Audrey Roy Greenfeld', 'manual'),
+     'Aju Tamang', 'manual'),
 ]
 
 

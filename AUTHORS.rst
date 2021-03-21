@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Audrey Roy Greenfeld <ajutamang10@outlook.com>
+* Aju Tamang <ajutamang10@outlook.com>
 
 Contributors
 ------------
