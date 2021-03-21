@@ -26,5 +26,23 @@ Python package that converts image to ascii
 Features
 --------
 
-* TODO
+* Conversion image to ASCII art
 
+Roadmap
+--------
+
+* Text ASCII art
+* Video conversion on ASCII Art
+* Fix CLI argument parser
+* Improved Documentation
+* Unit Test
+
+
+Usuage
+--------
+
+
+.. code-block: python
+        import asciju
+
+        asciju.convert_img_ascii('something.jpeg','output.txt')
