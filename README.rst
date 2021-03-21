@@ -24,14 +24,6 @@ Python package that converts image to ascii
 
 
 
-Installation
---------
-
-Use pip to install package in your system::
-
-
-    $ pip3 install asciju
-
 Features
 --------
 
@@ -46,12 +38,3 @@ Roadmap
 * Improved Documentation
 * Unit Test
 
-
-Usuage
---------
-
-Convert your image into ASCII art::
-
-
-    import asciju
-    asciju.convert_img_ascii('something.jpeg', 'output.txt')
