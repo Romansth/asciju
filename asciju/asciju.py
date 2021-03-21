@@ -18,7 +18,7 @@ def convert_img_ascii(source, output):
     pixels = img.getdata()
 
 
-    chars = ["W","A","#","&","@","$","%","*","!",":","."]
+    chars = ["B","S","#","&","@","$","%","*","!",":","."]
     new_pixels = [chars[pixel//25] for pixel in pixels]
     new_pixels = ''.join(new_pixels)
 
