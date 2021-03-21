@@ -23,6 +23,14 @@ Python package that converts image to ascii
 * Documentation: https://asciju.readthedocs.io.
 
 
+
+Installation
+--------
+
+.. code-block:: bash
+        pip3 install asciju
+
+
 Features
 --------
 
@@ -41,7 +49,7 @@ Roadmap
 Usuage
 --------
 
-.. code-block: python
+.. code-block:: python
         import asciju
 
         asciju.convert_img_ascii('something.jpeg','output.txt')
