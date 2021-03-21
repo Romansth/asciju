@@ -26,11 +26,8 @@ Python package that converts image to ascii
 
 Installation
 --------
-
-.. code-block:: bash
-        pip3 install asciju
-
-
+::
+    $ pip3 install asciju
 Features
 --------
 
