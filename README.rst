@@ -50,7 +50,8 @@ Roadmap
 Usuage
 --------
 
-.. code-block:: python
-        import asciju
+Convert your image into ASCII art::
 
-        asciju.convert_img_ascii('something.jpeg','output.txt')
+
+    import asciju
+    asciju.convert_img_ascii('something.jpeg', 'output.txt')
