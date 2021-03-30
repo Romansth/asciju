@@ -12,7 +12,7 @@ Convert your image into ASCII art::
 
     print(convert_img_ascii('yourimage.jpeg','output.txt'))
 
-Run the python script:
+Run the python script::
 
     python3 nameofthescript.py
 
