@@ -38,3 +38,8 @@ Roadmap
 * Improved Documentation
 * Unit Test
 
+Contribute
+------------
+.. _contribute: https://github.com/Aju100/asciju/blob/main/CONTRIBUTING.rst
+
+Contributions are always welcome! Please read the `contribution guidelines <contribute_>`_ first.
