@@ -38,8 +38,27 @@ Roadmap
 * Improved Documentation
 * Unit Test
 
+Usage
+-----
+
+Convert your image into ASCII art::
+
+        from asciju import convert_img_ascii
+
+        print(convert_img_ascii('yourimage.jpeg','output.txt'))
+
+Run the python script::
+
+        python3 nameofthescript.py
+
+
+.. image:: assets/run.gif
+
 Contribute
 ------------
 .. _contribute: https://github.com/Aju100/asciju/blob/main/CONTRIBUTING.rst
 
 Contributions are always welcome! Please read the `contribution guidelines <contribute_>`_ first.
+
+
+Made with heart and Python
