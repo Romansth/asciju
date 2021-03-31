@@ -21,7 +21,7 @@ Python package that converts image to ascii
 
 * Free software: MIT license
 * Documentation: https://asciju.readthedocs.io.
-
+* Python Package Index: https://pypi.org/project/asciju/
 
 
 Features
@@ -29,14 +29,6 @@ Features
 
 * Conversion image to ASCII art
 
-Roadmap
---------
-
-* Text ASCII art
-* Video conversion on ASCII Art
-* Fix CLI argument parser
-* Improved Documentation
-* Unit Test
 
 Usage
 -----
@@ -54,6 +46,15 @@ Run the python script::
 
 .. image:: assets/run.gif
 
+Roadmap
+--------
+
+* Text ASCII art
+* Video conversion on ASCII Art
+* Fix CLI argument parser
+* Improved Documentation
+* Unit Test
+
 Contribute
 ------------
 .. _contribute: https://github.com/Aju100/asciju/blob/main/CONTRIBUTING.rst
@@ -61,4 +62,4 @@ Contribute
 Contributions are always welcome! Please read the `contribution guidelines <contribute_>`_ first.
 
 
-Made with heart and Python
+Made with ❤️ and Python
