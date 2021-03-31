@@ -7,7 +7,7 @@ To use asciju in a project::
     import asciju
 
 Convert your image into ASCII art::
-
+ 
     from asciju import convert_img_ascii
 
     print(convert_img_ascii('yourimage.jpeg','output.txt'))
@@ -62,6 +62,3 @@ Output::
     BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBSBBS&#SBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
     BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
     BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
-
-
-       
