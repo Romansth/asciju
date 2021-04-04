@@ -61,5 +61,19 @@ Contribute
 
 Contributions are always welcome! Please read the `contribution guidelines <contribute_>`_ first.
 
+Help
+----
+
+.. _pylang2: https://twitter.com/pylang2
+.. _githubissue: https://github.com/Aju100/asciju/issues/new
+
+If you need any help anywhere in the process, you can open `Github issue <githubissue_>`_ or DM a question on `Twitter <pylang2_>`_.
+
+License
+-------
+
+This project is currently licensed under the MIT General Public License v3. i.e. we guarantee end users the freedom to run, study, share, and modify the software.
+
+
 
 Made with ❤️ and Python
