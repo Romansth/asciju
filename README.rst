@@ -44,7 +44,7 @@ Run the python script::
         python3 nameofthescript.py
 
 
-.. image:: ./assets/run.gif
+.. image:: ../assets/run.gif
 
 Roadmap
 --------
